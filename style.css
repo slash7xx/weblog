@@ -1,0 +1,7 @@
+    @keyframes animatedCursor {
+      0% { cursor: url('New\ Piskel-2.png.png'), auto; }
+      25% { cursor: url('New\ Piskel-2.png1.png'), auto; }
+      50% { cursor: url('New\ Piskel-3.png.png'), auto; }
+      75% { cursor: url('New\ Piskel-4.png.png'), auto; }
+      100% { cursor: url('New\ Piskel-2.png.png'), auto; } 
+    }
