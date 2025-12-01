@@ -1,3 +1,15 @@
+body {
+    font-family: Tahoma, Verdana, "MS Sans Serif", sans-serif;
+    margin: 20px;  /* adds space at top */
+    color: #333;
+    text-align: center;
+
+    cursor: url('cursor.png'), auto;
+
+    background-image: url('00002-tile.gif');
+    background-repeat: repeat;
+}
+
     @keyframes animatedCursor {
       0% { cursor: url('New\ Piskel-2.png.png'), auto; }
       25% { cursor: url('New\ Piskel-2.png1.png'), auto; }
